@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[PEYTONHOME & THE MDC]]></title>
         <description><![CDATA[PEYTONHOME & THE MDC]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/peytonhome-and-the-mdc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 04:54:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 04:54:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/peytonhome-and-the-mdc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd197cc3-8343-4c01-8cf4-bf3a6bc382c5.jpg">]]></description>
+            <link>https://thegrid.ai/peytonhome-and-the-mdc/home/index.html</link>
+            <guid isPermaLink="false">49de3ba9-2991-475d-be30-e48b3822c81a</guid>
+            <pubDate>Sat, 14 May 2016 04:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<p>TO THE TRADE INTERIOR DESIGN CENTER</p>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/peytonhome-and-the-mdc/about/index.html</link>
             <guid isPermaLink="false">27cb38b9-aa16-4794-af02-ac8935b8752c</guid>
             <pubDate>Sat, 14 May 2016 04:54:00 GMT</pubDate>
         </item>
